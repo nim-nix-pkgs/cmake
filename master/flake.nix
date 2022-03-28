@@ -11,7 +11,6 @@
   inputs.src-cmake-master.ref   = "refs/heads/master";
   inputs.src-cmake-master.owner = "genotrance";
   inputs.src-cmake-master.repo  = "cmake";
-  inputs.src-cmake-master.dir   = "";
   inputs.src-cmake-master.type  = "github";
   
   inputs."nimterop".owner = "nim-nix-pkgs";
